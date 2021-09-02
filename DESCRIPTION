@@ -1,7 +1,7 @@
 Package: ReviewR
 Title: A Light-Weight, Portable Tool for Reviewing Individual Patient
         Records
-Version: 2.3.6
+Version: 2.3.7
 Authors@R: c(
             person('Laura', 'Wiley', email = 'laura.wiley@cuanschutz.edu', role = c('aut'), comment = c(ORCID = "0000-0001-6681-9754")),
             person('Luke', 'Rasmussen', email = 'luke.rasmussen@northwestern.edu', role = c('aut'), comment = c(ORCID = "0000-0002-4497-8049")),
@@ -36,11 +36,11 @@ Language: en-US
 LazyData: true
 RoxygenNote: 7.1.1
 NeedsCompilation: no
-Packaged: 2021-04-01 16:17:32 UTC; MayerDav
+Packaged: 2021-09-01 18:56:45 UTC; MayerDav
 Author: Laura Wiley [aut] (<https://orcid.org/0000-0001-6681-9754>),
   Luke Rasmussen [aut] (<https://orcid.org/0000-0002-4497-8049>),
   David Mayer [cre, aut],
   The Wiley Lab [cph, fnd]
 Maintainer: David Mayer <david.mayer@cuanschutz.edu>
 Repository: CRAN
-Date/Publication: 2021-04-02 11:30:05 UTC
+Date/Publication: 2021-09-02 13:10:02 UTC
