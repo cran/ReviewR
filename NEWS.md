@@ -1,3 +1,15 @@
+# ReviewR 2.3.10
+
+## Fixes
+* Address Rd issue with package overview help file (#36)
+* DOI Formatting in CITATION
+
+## Misc Updates
+* Update CITATION
+* Remove `dashboardthemes` dependency (#32)
+* Refresh vignettes with updated URLs
+* update Dockerfile(s)
+
 # ReviewR 2.3.8
 
 ## Fixes
